@@ -1,4 +1,4 @@
-# Web Programming Lab
+# Full Stack Lab
 
 **Laboratory Components**
 
