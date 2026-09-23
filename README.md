@@ -1,5 +1,5 @@
 # Full Stack Lab
-
+ 
 **Laboratory Components**
 
 ## 1. JavaScript Basics
