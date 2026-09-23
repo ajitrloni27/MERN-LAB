@@ -1,6 +1,6 @@
 # Web Programming Lab
 
-**Laboratory Component: No. of Hrs: 26**
+**Laboratory Components**
 
 ## 1. JavaScript Basics
 
@@ -112,10 +112,3 @@ After adding a product, update the list of products displayed in React.
 
 ---
 
-# MANGALORE INSTITUTE OF TECHNOLOGY & ENGINEERING
-
-(A Unit of Rajalaxmi Education Trust®, Mangalore)
-
-Autonomous Institute affiliated to VTU, Belagavi, Approved by AICTE, New Delhi
-
-Accredited by NAAC with A+ Grade & ISO 9001:2015 Certified Institution
